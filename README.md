@@ -6,7 +6,7 @@ This Python project demonstrates text detection and recognition using the EasyOC
 
 To run this project, you need to have Python installed on your system. You can install the required Python packages using pip:
 
-```bash
+bash
 pip install opencv-python-headless easyocr matplotlib numpy
 
 Usage
@@ -15,17 +15,18 @@ Clone the repository to your local machine:
 bash
 Copy code
 git clone https://github.com/your-username/your-repo.git
+
 Navigate to the project directory:
 
 bash
-Copy code
+
 cd your-repo
 Replace 'PATHTOFILE' in the imagePath variable in the code with the actual path to the image you want to process.
 
 Run the script:
 
 bash
-Copy code
+
 python text_detection_recognition.py
 This will detect text in the specified image and display it with bounding boxes and text annotations for recognized text regions.
 
