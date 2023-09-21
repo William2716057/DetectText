@@ -5,7 +5,7 @@ It will detect text in the specified image and display it with bounding boxes an
 
 
 
-##Configuration
+Configuration
 You can customize the behavior of the script by adjusting parameters such as the language used for OCR and the confidence threshold for text recognition. These settings can be modified in the script itself.
 
 Feel free to contribute to this project or provide feedback. If you encounter any issues or have questions, please create an issue in the GitHub repository.
